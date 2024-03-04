@@ -10,10 +10,7 @@
 
 ### Reach me on:
 
-[<img src="https://icons8.com/icon/13930/linkedin">][linkedin]
-
-
-[website](https://www.linkedin.com/in/-danny-peters-/)
+[<img src="https://icons8.com/icon/13930/linkedin">](https://www.linkedin.com/in/-danny-peters-/)
 
 <!--
 **P97Danny/P97Danny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
