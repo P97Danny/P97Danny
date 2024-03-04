@@ -3,10 +3,10 @@
 ### I'm a soon to be Fullstack Developer.
 --- 
 
-- 🔭 I’m currently working on various projects fot the Province of South-Holland.
+- 🔭 I’m currently working on various projects for the Province of South-Holland.
 - 🌱 I’m currently learning more Web Development in React, Typescript and Python.
 - 🚀 My goal for 2024 is make beatiful webapps for South-Holland.
-- 💬 I'm interested in Web Development, Game Development and Tech
+- 💬 I'm interested in Web Development, Game Development and Tech.
 
 ### Find me on:
 ---
