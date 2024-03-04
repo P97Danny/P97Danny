@@ -8,9 +8,10 @@
 - 🚀 My goal for 2024 is make beatiful webapps for South-Holland.
 - 💬 I'm interested in Web Development, Game Development and Tech
 
-### Reach me on:
+### Find me on:
+---
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="15" heigth="15">](https://www.linkedin.com/in/-danny-peters-/)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="16" heigth="16">](https://www.linkedin.com/in/-danny-peters-/)
 [🌎](https://danny-peters.nl/)
 [✉️](mailto:danny.peters@newskool.nl)
 
