@@ -10,7 +10,9 @@
 
 ### Reach me on:
 
-[<img src="https://icons8.com/icon/13930/linkedin">](https://www.linkedin.com/in/-danny-peters-/)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/-danny-peters-/)
+[🌎](https://danny-peters.nl/)
+[✉️](mailto:danny.peters@newskool.nl)
 
 <!--
 **P97Danny/P97Danny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
