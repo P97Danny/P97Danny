@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hello there! I'm Danny👋
+
+### I'm a soon to be Fullstack Developer.
+--- 
+
+- 🔭 I’m currently working on various projects fot the Province of South-Holland.
+- 🌱 I’m currently learning more Web Development in React, Typescript and Python.
+- 🚀 My goal for 2024 is make beatiful webapps for South-Holland.
+- 💬 I'm interested in Web Development, Game Development and Tech
+
+### Reach me on:
+
+[<img src="https://icons8.com/icon/13930/linkedin">][linkedin]
+
+
+[website](https://www.linkedin.com/in/-danny-peters-/)
 
 <!--
 **P97Danny/P97Danny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
