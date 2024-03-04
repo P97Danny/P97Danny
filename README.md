@@ -10,7 +10,7 @@
 
 ### Reach me on:
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="5" heigth="5">](https://www.linkedin.com/in/-danny-peters-/)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="15" heigth="15">](https://www.linkedin.com/in/-danny-peters-/)
 [🌎](https://danny-peters.nl/)
 [✉️](mailto:danny.peters@newskool.nl)
 
