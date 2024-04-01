@@ -1,6 +1,6 @@
 ## Hello there! I'm Danny👋
 
-### I'm a soon to be Fullstack Developer.
+### I'm a Fullstack Developer.
 --- 
 
 - 🔭 I’m currently working on various projects for the Province of South-Holland.
