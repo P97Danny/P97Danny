@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on various projects for the Province of South-Holland.
 - 🌱 I’m currently learning more Web Development in React, Typescript and Python.
-- 🚀 My goal for 2024 is make various webapps for South-Holland.
+- 🌱 I'm also learning game development in Unreal Engine 5 using C++.
+- 🚀 My goal for 2024 is make various great webapps for the Province South-Holland.
 - 💬 I'm interested in Web Development, Game Development and Tech.
 
 ### Find me on:
